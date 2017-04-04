@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
   <body>
-  <img src="https://cloud.githubusercontent.com/assets/13129393/23463437/7cd45ea0-fe5f-11e6-9618-684be5b9318e.png" alt="ms">
+  <img src="https://cloud.githubusercontent.com/assets/13129393/24668479/07afa97c-1935-11e7-9b6f-9f9964117979.png" alt="ms">
+    <br>
+    <br>
 
   <title>fabric8 example</title>
   <?php
