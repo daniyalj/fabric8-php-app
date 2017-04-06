@@ -16,11 +16,5 @@ A simple PHP app for deploying on fabric8 in Openshift
 
 ## Credits
 
-TODO: Write credits
 
 ## License
-
-TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
