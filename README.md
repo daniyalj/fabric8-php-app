@@ -2,7 +2,7 @@
   <content><![CDATA[
 # ${1:Project Name}
 
-TODO: Write a project description
+TODO: A simple PHP app for deploying on fabric8 in Openshift
 
 ## Installation
 
